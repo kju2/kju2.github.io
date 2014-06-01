@@ -1,0 +1,11 @@
+# Site settings
+title: Software Engineering Abridged
+email: ""
+#description: "Compiling facts and interesting stuff about Software Engineering."
+baseurl: ""
+#url: "http://edlinger.me"
+username: "kju2"
+
+# Build settings
+markdown: kramdown
+permalink: none
