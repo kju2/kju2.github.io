@@ -9,3 +9,4 @@ username: "kju2"
 # Build settings
 markdown: kramdown
 permalink: none
+highlighter: true
